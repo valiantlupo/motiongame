@@ -1,5 +1,5 @@
 {
-  "name": "1 2 3 soleil",
+  "name": "motiongame",
   "version": "1.0.0",
   "description": "motion detection game",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jolicode/1-2-3-soleil.git"
+    "url": "git+https://github.com/valiantlupo/motiongame.git"
   },
-  "author": "Cécile Delmon",
+  "author": "Valiant Lowitz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jolicode/1-2-3-soleil/issues"
+    "url": "https://github.com/valiantlupo/motiongame"
   },
-  "homepage": "https://github.com/jolicode/1-2-3-soleil#readme",
+  "homepage": "https://github.com/valiantlupo/motiongame#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-preset-env": "^1.6.0",
@@ -32,6 +32,7 @@
     "webpack-stream": "^4.0.0"
   },
   "dependencies": {
-    "del": "^3.0.0"
+    "del": "^3.0.0",
+    "package.json": "^2.0.1"
   }
 }
