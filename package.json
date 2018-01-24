@@ -37,5 +37,14 @@
     "del": "^3.0.0",
     "package.json": "^2.0.1",
     "registry-url": "^3.1.0"
-  }
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "keywords": [
+    "npm",
+    "install",
+    "-g",
+    "pakmanager"
+  ]
 }
